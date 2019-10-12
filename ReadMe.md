@@ -3,7 +3,7 @@
 <div class="alert alert-block alert-info" style="background-color:black; color:white; border-color:white">
 <b>Brownian Motion</b>
     
-The process $\{W(t)\}_{t\geq0}$ is said to be (standard) Brownian Motion if the follwoing are satisfied: 
+The process $\{W(t)\}_{t\geq0}$ is said to be (standard) Brownian Motion if the following are satisfied: 
     <ul style="list-style-type:disc;">
             <li>$W(0)=0$</li>
             <li>For $s,t\geq0$ the random variable $W(s+t)-W(s) \sim N(0,t)$</li>
@@ -100,83 +100,3 @@ In my algorithm:
 	S_{t+1} = S_t*exp\left[\left(\mu - \frac{1}{2}\sigma^2\right) + \sigma W_t\right] $$
  
 </span>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    $$ffd$$
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    g
