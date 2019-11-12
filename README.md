@@ -2,7 +2,7 @@
 Ongoing project of creating a trading platform and different alphas to give a user to whole experience.
 
 # Mathematics behind one of the strategy #
-You can read the Md file by copying and pasting the ReadMe.md here: `https://stackedit.io/app#`
+You can read the Md file by copying and pasting the ReadMe.md here: https://stackedit.io/app#
 
 ### Monte Carlo Strategy ###
 
